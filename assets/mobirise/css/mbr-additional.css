@@ -1042,7 +1042,7 @@ a {
 }
 .cid-sTET4VMzOn .mbr-text,
 .cid-sTET4VMzOn .mbr-section-btn {
-  color: #e43f3f;
+  color: #ffffff;
 }
 .cid-sTF4ExniWx {
   padding-top: 6rem;
@@ -1066,7 +1066,7 @@ a {
   color: #e43f3f;
 }
 .cid-sTF4ExniWx .mbr-text {
-  color: #e43f3f;
+  color: #ffffff;
 }
 .cid-sTKMLHoo73 {
   padding-top: 4rem;
@@ -1108,14 +1108,14 @@ a {
 }
 .cid-sTKMLHoo73 .mbr-text,
 .cid-sTKMLHoo73 .mbr-section-btn {
-  color: #e43f3f;
+  color: #ffffff;
 }
 .cid-sTKMLHoo73 .card-title {
   color: #e43f3f;
 }
 .cid-sTQCpdj1Kc {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #000000;
 }
 .cid-sTQCpdj1Kc img,
@@ -1160,7 +1160,7 @@ a {
 .cid-sTQCpdj1Kc .mbr-text,
 .cid-sTQCpdj1Kc .mbr-section-btn {
   text-align: left;
-  color: #4479d9;
+  color: #ffffff;
 }
 .cid-sTQCpdj1Kc .item-title {
   text-align: left;
@@ -1169,6 +1169,16 @@ a {
 .cid-sTQCpdj1Kc .item-subtitle {
   text-align: left;
   color: #232323;
+}
+.cid-sWYhi9nkDx {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-sWYhi9nkDx .mbr-section-btn {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
 }
 .cid-sTKPm5qVfq {
   background-image: url("../../../assets/images/book-g718c6db7e-1920-1920x1440.jpg");
